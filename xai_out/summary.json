@@ -1,0 +1,32 @@
+{
+  "sample": "based on a devilishly witty script by heather mcgowan and niels mueller , the film gets great laughs , but never at the expense of its characters ",
+  "ig_top_tokens": [
+    "[SEP]",
+    "expense",
+    "but",
+    "never",
+    "witty"
+  ],
+  "sc": {
+    "baseline": 0.9991422891616821,
+    "sufficiency": 0.002095850184559822,
+    "comprehensiveness": 0.10017555952072144
+  },
+  "rollout_shape": [
+    33,
+    33
+  ],
+  "dice": {
+    "base_already_target": true,
+    "text": "based on a devilishly witty script by heather mcgowan and niels mueller , the film gets great laughs , but never at the expense of its characters ",
+    "probs": [
+      0.0008576762629672885,
+      0.9991422891616821
+    ]
+  },
+  "patching": {
+    "base_prob": 0.9991422891616821,
+    "patched_prob": 0.9903738498687744,
+    "delta": -0.008768439292907715
+  }
+}
